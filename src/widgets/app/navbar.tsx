@@ -307,7 +307,7 @@ export const navLinks2 = [
     ],
   },
 ];
-// jj
+
 
 const AppNavBar = () => {
   const [bgCol, setBgCol] = useState("");
